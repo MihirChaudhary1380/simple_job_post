@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class JobPost {
-
+//cometskdks
     private int postId;
     private String postProfile;
     private String postDesc;
